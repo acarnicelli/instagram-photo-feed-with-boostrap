@@ -1,0 +1,45 @@
+/* div{
+    border: 1px dashed red;
+} */
+
+
+body{
+    padding-top: 55px;
+}
+
+nav {
+    border-bottom: #d6d9db solid 1px;
+}
+
+#instagram {
+    font-family: 'Lobster', cursive;
+    font-size: 25px;
+}
+
+.grises li a {
+    font-size: small;
+}
+
+.grises li a.active {
+    background-color: #6c757d !important;
+    color: white !important;
+}
+
+.modal-dialog {
+    max-width: 570px !important;
+    margin: auto;
+}
+
+.fa-border {
+    border: lightgray 0.09em solid;
+    border-radius: .2em;
+    font-size: 17px;
+}
+
+#post {
+    background-color: lightgray;
+}
+
+.col-4 img {
+    border: 1px solid white;
+}
